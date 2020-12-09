@@ -1,4 +1,4 @@
-### Argumentative Visualization ([link](https://stuteeroutray.github.io/shadesinvogue-beeswarm-scatterplot/))
+### Argumentative Visualization ([link](https://stuteeroutray.github.io/shadesinvogue-argumentative-vis/))
 
 This assignment was done as part of CSE 578 - Data Visualization coursework at Arizona State University.
 The visualization compares the two sides to the representation of darker shades in women in Vogue magazine. Anchoring and Classification techniques have been used to present the two stances. The paper, [visualization rhetoric](http://users.eecs.northwestern.edu/~jhullman/vis_rhetoric.pdf), has an extensive collection of techniques to help create visualizations promoting specific viewpoints.
